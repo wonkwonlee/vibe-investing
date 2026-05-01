@@ -22,6 +22,7 @@ This project collects reusable investing workflows instead of one-off prompts. T
 - `skills/market-analysis/traditional-market-analysis`
 - `skills/quantitative-analysis/quant-research`
 - `skills/output-formats/financial-report`
+- `skills/portfolio/autonomous-investment-strategy-analyst`
 
 ### Investor Personas
 
